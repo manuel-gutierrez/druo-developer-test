@@ -5,7 +5,7 @@ One of our clients is using a form builder service to gather data from his custo
 Once the form is fullfilled by a customer, the form data is passed to our client web app 
 that will process the information comming from the form. 
 
-Our client, expect a shorter version of what the form service produce
+Our client, expect a shorter data version of what the form service produce
 so he can understand the information very easy. 
 
 The information come in two separate arrays: One dedicated to describe the fields
